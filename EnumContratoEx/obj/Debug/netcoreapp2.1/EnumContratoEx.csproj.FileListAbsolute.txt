@@ -1,0 +1,11 @@
+E:\Fábio\Documentos\Cursos\C# COMPLETO Programação Orientada a Objetos\9 Enumeracoes e composicao C#\EnumContratoEx\EnumContratoEx\bin\Debug\netcoreapp2.1\EnumContratoEx.deps.json
+E:\Fábio\Documentos\Cursos\C# COMPLETO Programação Orientada a Objetos\9 Enumeracoes e composicao C#\EnumContratoEx\EnumContratoEx\bin\Debug\netcoreapp2.1\EnumContratoEx.runtimeconfig.json
+E:\Fábio\Documentos\Cursos\C# COMPLETO Programação Orientada a Objetos\9 Enumeracoes e composicao C#\EnumContratoEx\EnumContratoEx\bin\Debug\netcoreapp2.1\EnumContratoEx.runtimeconfig.dev.json
+E:\Fábio\Documentos\Cursos\C# COMPLETO Programação Orientada a Objetos\9 Enumeracoes e composicao C#\EnumContratoEx\EnumContratoEx\bin\Debug\netcoreapp2.1\EnumContratoEx.dll
+E:\Fábio\Documentos\Cursos\C# COMPLETO Programação Orientada a Objetos\9 Enumeracoes e composicao C#\EnumContratoEx\EnumContratoEx\bin\Debug\netcoreapp2.1\EnumContratoEx.pdb
+E:\Fábio\Documentos\Cursos\C# COMPLETO Programação Orientada a Objetos\9 Enumeracoes e composicao C#\EnumContratoEx\EnumContratoEx\obj\Debug\netcoreapp2.1\EnumContratoEx.csprojAssemblyReference.cache
+E:\Fábio\Documentos\Cursos\C# COMPLETO Programação Orientada a Objetos\9 Enumeracoes e composicao C#\EnumContratoEx\EnumContratoEx\obj\Debug\netcoreapp2.1\EnumContratoEx.csproj.CoreCompileInputs.cache
+E:\Fábio\Documentos\Cursos\C# COMPLETO Programação Orientada a Objetos\9 Enumeracoes e composicao C#\EnumContratoEx\EnumContratoEx\obj\Debug\netcoreapp2.1\EnumContratoEx.AssemblyInfoInputs.cache
+E:\Fábio\Documentos\Cursos\C# COMPLETO Programação Orientada a Objetos\9 Enumeracoes e composicao C#\EnumContratoEx\EnumContratoEx\obj\Debug\netcoreapp2.1\EnumContratoEx.AssemblyInfo.cs
+E:\Fábio\Documentos\Cursos\C# COMPLETO Programação Orientada a Objetos\9 Enumeracoes e composicao C#\EnumContratoEx\EnumContratoEx\obj\Debug\netcoreapp2.1\EnumContratoEx.dll
+E:\Fábio\Documentos\Cursos\C# COMPLETO Programação Orientada a Objetos\9 Enumeracoes e composicao C#\EnumContratoEx\EnumContratoEx\obj\Debug\netcoreapp2.1\EnumContratoEx.pdb
